@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-BASE_DIR = Path("/Users/arnnee/PycharmProjects/ProjectMadness")
+BASE_DIR = Path("/Users/adjust/as/needed")
 DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
 
